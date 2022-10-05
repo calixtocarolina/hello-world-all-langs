@@ -18,8 +18,6 @@
 - Bio: Final Engineer Computer Science Student
 - Github: [Rishita489](https://github.com/Rishita489)
 
-
-
 ## Name: [Aniruddha M](https://github.com/AniruddhaM1396)
 - Place: Karnataka India
 - Bio: Software Developer
@@ -40,10 +38,13 @@
 - Bio: Newbie Go Developer
 - Github: [dwiki48](https://github.com/dwiki48)
 
-
 ## Name: [Harsh Kumar](https://github.com/thisisharsh7)
 - Place: New Delhi, India
 - Bio: Student, Front-End Developer, Open Source contributor
 - Github: [thisisharsh7](https://github.com/thisisharsh7)
 
+## Name: [Om Parulekar](https://github.com/Shiganshina)
+- Place: Ratnagiri, Maharashtra State, India
+- Bio: Chess Player, Competetive Programmer, Minecraft is LOVE :)
+- Github: [Shiganshina]([https://github.com/calixtocarolina](https://github.com/Shiganshina))
 
