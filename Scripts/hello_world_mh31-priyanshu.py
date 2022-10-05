@@ -4,4 +4,4 @@
 # Github: https://github.com/mh31-priyanshu
 
 print("नमस्कार जग")
-# It's written in Devnagri scrict and it can be read as "Namaskāra jaga" in english
+# It's written in Devnagri script and it can be read as "Namaskāra jaga" in english
