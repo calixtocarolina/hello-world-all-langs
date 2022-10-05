@@ -8,4 +8,9 @@
 - Bio: Discord: Mezo#0001 Open source contributor💫
 - Github: [mezotv](https://github.com/mezotv)
 
+## Name: [Adiansyah Dwiki](https://github.com/mezotv)
+- Place: Malang, East Java
+- Bio: Newbie Go Developer
+- Github: [dwiki48](https://github.com/dwiki48)
+
 
