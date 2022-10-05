@@ -13,8 +13,14 @@
 - Bio: Discord: Mezo#0001 Open source contributor💫
 - Github: [mezotv](https://github.com/mezotv)
 
+## Name: [Priyanshu Lapkale](https://github.com/mh31-priyanshu)
+- Place: Maharashtra, India
+- Bio: IT Student and I love watching series and anime and I'm a little bit coffee addicted
+- Github: [mh31-priyanshu](https://github.com/mh31-priyanshu)
+
 ## Name: [Adiansyah Dwiki](https://github.com/dwiki48)
 - Place: Malang, East Java
 - Bio: Newbie Go Developer
 - Github: [dwiki48](https://github.com/dwiki48)
+
 
