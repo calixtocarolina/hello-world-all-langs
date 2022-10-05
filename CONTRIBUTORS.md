@@ -18,8 +18,6 @@
 - Bio: Final Engineer Computer Science Student
 - Github: [Rishita489](https://github.com/Rishita489)
 
-
-
 ## Name: [Aniruddha M](https://github.com/AniruddhaM1396)
 - Place: Karnataka India
 - Bio: Software Developer
@@ -51,4 +49,5 @@
 - Place: Kabul, Afghanistan
 - Bio: Student, Front-End Developer, Open Source Contributor
 - GitHub: [ziarparvaiz](https://github.com/ziarparvaiz)
+
 
