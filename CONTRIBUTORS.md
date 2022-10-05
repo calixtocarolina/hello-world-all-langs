@@ -47,3 +47,8 @@
 - Github: [thisisharsh7](https://github.com/thisisharsh7)
 
 
+### Name: [ZIAR Parvaiz](https://github.com/ziarparvaiz)
+- Place: Kabul, Afghanistan
+- Bio: Student, Front-End Developer, Open Source Contributor
+- GitHub: [ziarparvaiz](https://github.com/ziarparvaiz)
+
