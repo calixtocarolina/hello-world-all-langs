@@ -1,5 +1,7 @@
-## Name: [Carolina Calixto](https://github.com/calixtocarolina)
-- Place: Curitiba, Brazil
-- Bio: Software Developer who loves cats, anime and art
-- Github: [calixtocarolina](https://github.com/calixtocarolina)
+## Name: [Om Parulekar](https://github.com/Shiganshina)
+- Place: Ratnagiri, Maharashtra State, India
+- Bio: Chess Player, Competetive Programmer, Minecraft is LOVE :)
+- Github: [Shiganshina]([https://github.com/calixtocarolina](https://github.com/Shiganshina))
+
+
 
