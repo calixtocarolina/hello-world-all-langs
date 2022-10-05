@@ -50,4 +50,8 @@
 - Bio: Student, Front-End Developer, Open Source Contributor
 - GitHub: [ziarparvaiz](https://github.com/ziarparvaiz)
 
+### Name: [Elle Y](https://github.com/inohime)
+- Place: California, United States of America
+- Bio: Software Engineer that enjoys building game engines
+Github: [inohime](https://github.com/inohime)
 
