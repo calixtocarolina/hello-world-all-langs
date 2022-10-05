@@ -29,3 +29,8 @@
 - Github: [dwiki48](https://github.com/dwiki48)
 
 
+## Name: [Harsh Kumar](https://github.com/thisisharsh7)
+- Place: New Delhi, India
+- Bio: Student, Front-End Developer, Open Source contributor
+- Github: [thisisharsh7](https://github.com/thisisharsh7)
+
