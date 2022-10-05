@@ -12,4 +12,3 @@
 - Place: Baden-Württemberg Germany
 - Bio: Discord: Mezo#0001 Open source contributor💫
 - Github: [mezotv](https://github.com/mezotv)
-
