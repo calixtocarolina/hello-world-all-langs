@@ -8,4 +8,9 @@
 - Bio: Discord: Mezo#0001 Open source contributor💫
 - Github: [mezotv](https://github.com/mezotv)
 
+## Name: [Melvin Ng](https://github.com/melvincwng)
+- Place: Singapore
+- Bio: Software Developer 👨‍💻
+- Github: [melvincwng](https://github.com/melvincwng)
+
 
