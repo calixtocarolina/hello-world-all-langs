@@ -94,6 +94,11 @@
 - Bio: React and React Native Developer
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
 
+### Name: [Juli Cheng](https://github.com/julicheng)
+
+- Place: Manchester, UK
+- Bio: Frontend Engineer
+- GitHub: [julicheng](https://github.com/julicheng)
 
 ## Name: [Harsh Dalwadi](https://github.com/HarshDDalwadi)
 
