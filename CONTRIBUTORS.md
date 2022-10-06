@@ -76,6 +76,11 @@
 - Bio: Frontend Developer that loves make people happy.
 - GitHub: [Poveii](https://github.com/Poveii)
 
+### Name: [Yashaswini Shivathaya](https://github.com/y-ashaswini)
+- Place: Dubai, United Arab Emirates
+- Bio: An organism living an amusing life :)
+- GitHub: [y-ashaswini](https://github.com/y-ashaswini)
+
 ## Name: [flawlesslys](https://github.com/flawlesslys)
 
 - Place: It's a secret :)
@@ -86,3 +91,4 @@
 - Place: Indore, MP, India
 - Bio: React and React Native Developer
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
+
