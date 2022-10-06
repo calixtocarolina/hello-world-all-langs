@@ -81,3 +81,10 @@
 - Place: It's a secret :)
 - Bio: Beginner in coding who tries to learn new things :)
 - Github: [flawlesslys](https://github.com/flawlesslys)
+
+## Name: [Priyanshu](https://github.com/Priyanshu360-cpu)
+
+- Place: Kolkata India
+- Bio: Loves Competitive Programming
+- Github: [Priyanshu](https://github.com/Priyanshu360-cpu)
+
