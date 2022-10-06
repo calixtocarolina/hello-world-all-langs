@@ -4,6 +4,12 @@
 - Bio: Software Developer who loves cats, anime and art
 - Github: [calixtocarolina](https://github.com/calixtocarolina)
 
+### Name: [Yashaswini Shivathaya](https://github.com/y-ashaswini)
+
+- Place: Dubai, United Arab Emirates
+- Bio: An organism living an amusing life. i wish someone was recording all of this honestly.
+- GitHub: [y-ashaswini](https://github.com/y-ashaswini)
+
 ## Name [Greep](https://github.com/GreepTheSheep)
 
 - Place: France
@@ -75,9 +81,3 @@
 - Place: João Pessoa, Paraíba, Brasil
 - Bio: Frontend Developer that loves make people happy.
 - GitHub: [Poveii](https://github.com/Poveii)
-
-### Name: [Yashaswini Shivathaya](https://github.com/y-ashaswini)
-
-- Place: Dubai, United Arab Emirates
-- Bio: An organism living an amusing life. i wish someone was recording all of this honestly.
-- GitHub: [y-ashaswini](https://github.com/y-ashaswini)
