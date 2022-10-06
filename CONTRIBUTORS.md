@@ -94,6 +94,13 @@
 - Bio: React and React Native Developer
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
 
+
+## Name: [Harsh Dalwadi](https://github.com/HarshDDalwadi)
+
+- Place:Mumbai, Maharashtra, India
+- Bio: IT Student and I love coding and now I'm getting my hands on openSouce, love playing badMinton.
+- Github: [HarshDDalwadi](https://github.com/HarshDDalwadi)
+
 ### Name: [Mansi Singla](https://github.com/mansi-singla-31215)
 
 - Place: Panipat, Haryana, India
@@ -105,4 +112,3 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer who loves games and anime
 - Github: [vermilion4](https://github.com/vermilion4)
-
