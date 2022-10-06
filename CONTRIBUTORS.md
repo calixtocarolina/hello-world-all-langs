@@ -65,3 +65,8 @@ Github: [inohime](https://github.com/inohime)
 - Bio: Frontend Developer that loves make people happy.
 - GitHub: [Poveii](https://github.com/Poveii)
 
+### Name: [Yashaswini Shivathaya](https://github.com/y-ashaswini)
+- Place: Dubai, United Arab Emirates
+- Bio: An organism living an amusing life :)
+- GitHub: [y-ashaswini](https://github.com/y-ashaswini)
+
