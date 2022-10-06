@@ -1,3 +1,9 @@
+## Name: [Adaeze Ndupu](https://github.com/vermilion4)
+
+- Place: Lagos, Nigeria
+- Bio: Frontend Developer who loves games and anime
+- Github: [vermilion4](https://github.com/vermilion4)
+
 ## Name: [Carolina Calixto](https://github.com/calixtocarolina)
 
 - Place: Curitiba, Brazil
@@ -77,6 +83,7 @@
 - GitHub: [Poveii](https://github.com/Poveii)
 
 ### Name: [Yashaswini Shivathaya](https://github.com/y-ashaswini)
+
 - Place: Dubai, United Arab Emirates
 - Bio: An organism living an amusing life :)
 - GitHub: [y-ashaswini](https://github.com/y-ashaswini)
@@ -88,7 +95,7 @@
 - Github: [flawlesslys](https://github.com/flawlesslys)
 
 ### Name: [Sukhjeet Signh](https://github.com/00sukhjeet00)
+
 - Place: Indore, MP, India
 - Bio: React and React Native Developer
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
-
