@@ -1,9 +1,3 @@
-## Name: [Adaeze Ndupu](https://github.com/vermilion4)
-
-- Place: Lagos, Nigeria
-- Bio: Frontend Developer who loves games and anime
-- Github: [vermilion4](https://github.com/vermilion4)
-
 ## Name: [Carolina Calixto](https://github.com/calixtocarolina)
 
 - Place: Curitiba, Brazil
@@ -99,3 +93,9 @@
 - Place: Indore, MP, India
 - Bio: React and React Native Developer
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
+
+## Name: [Adaeze Ndupu](https://github.com/vermilion4)
+
+- Place: Lagos, Nigeria
+- Bio: Frontend Developer who loves games and anime
+- Github: [vermilion4](https://github.com/vermilion4)
