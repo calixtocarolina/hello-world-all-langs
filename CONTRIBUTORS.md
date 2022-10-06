@@ -55,7 +55,13 @@
 - Bio: Software Engineer that enjoys building game engines
 Github: [inohime](https://github.com/inohime)
 
+### Name: [Liza Deka](https://github.com/Baba-Yaga-1)
+- Place: Assam, India
+- Bio: Final year computer science student who loves to watch movies and contribute to open source projects/programs.
+- GitHub: [Baba-Yaga-1](https://github.com/Baba-Yaga-1)
+
 ### Name: [Pablo Gabriel](https://github.com/Poveii)
 - Place: João Pessoa, Paraíba, Brasil
 - Bio: Frontend Developer that loves make people happy.
 - GitHub: [Poveii](https://github.com/Poveii)
+
