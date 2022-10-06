@@ -92,3 +92,8 @@
 - Bio: React and React Native Developer
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
 
+### Name: [Mansi Singla](https://github.com/mansi-singla-31215)
+- Place: Panipat, Haryana, India
+- Bio: CSE Student, Web Developer
+- GitHub: [mansi-singla-31215](https://github.com/mansi-singla-31215)
+
