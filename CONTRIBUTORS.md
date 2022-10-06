@@ -81,3 +81,10 @@
 - Place: João Pessoa, Paraíba, Brasil
 - Bio: Frontend Developer that loves make people happy.
 - GitHub: [Poveii](https://github.com/Poveii)
+
+## Name: [flawlesslys](https://github.com/flawlesslys)
+
+- Place: It's a secret :)
+- Bio: Beginner in coding who tries to learn new things :)
+- Github: [flawlesslys](https://github.com/flawlesslys)
+
