@@ -124,3 +124,15 @@
 - Place: Kolkata, West Bengal, India
 - Bio: Engineering Student, Web Developer, Open Source Contributer
 - Github: [Utsab5](https://github.com/Utsab5)
+
+## Name: [Patryk Skonieczny](https://github.com/bmalvo)
+
+- Place: Żory, Śląsk, Poland 
+- Bio: Forklift Driver who want change profession to IT.
+- Github: [bmalvo](https://github.com/bmalvo)
+
+## Name: [Anish Ghimire](https://github.com/anishghimire603)
+
+- Place: Lokanthali, Bhaktapur, Nepal
+- Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
+- Github: [anishghimire603](https://github.com/anishghimire603)
