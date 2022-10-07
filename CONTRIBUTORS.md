@@ -82,6 +82,12 @@
 - Bio: An organism living an amusing life :)
 - GitHub: [y-ashaswini](https://github.com/y-ashaswini)
 
+### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
+
+- Place: Delhi, India
+- Bio: ECE Student, Web Developer
+- GitHub: [Prachi-22-81](https://github.com/Prachi-22-81)
+
 ## Name: [flawlesslys](https://github.com/flawlesslys)
 
 - Place: It's a secret :)
