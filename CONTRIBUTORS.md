@@ -117,3 +117,10 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer who loves games and anime
 - Github: [vermilion4](https://github.com/vermilion4)
+
+
+## Name: [Utsab Kundu](https://github.com/Utsab5)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Engineering Student, Web Developer, Open Source Contributer
+- Github: [Utsab5](https://github.com/Utsab5)
