@@ -117,3 +117,9 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer who loves games and anime
 - Github: [vermilion4](https://github.com/vermilion4)
+
+## Name: [Patryk Skonieczny](https://github.com/bmalvo)
+
+- Place: Żory, Śląsk, Poland 
+- Bio: Forklift Driver who want change profession to IT.
+- Github: [bmalvo](https://github.com/bmalvo)
