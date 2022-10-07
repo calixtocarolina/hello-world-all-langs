@@ -117,3 +117,9 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer who loves games and anime
 - Github: [vermilion4](https://github.com/vermilion4)
+
+## Name: [Anish Ghimire](https://github.com/anishghimire603)
+
+- Place: Lokanthali, Bhaktapur, Nepal
+- Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
+- Github: [anishghimire603](https://github.com/anishghimire603)
