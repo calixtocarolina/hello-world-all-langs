@@ -142,3 +142,10 @@
 - Place: Lokanthali, Bhaktapur, Nepal
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
+
+## Name: [Birat Datta](https://github.com/biratdatta)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
+- Github: [biratdatta](https://github.com/biratdatta)
+
