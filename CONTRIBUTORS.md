@@ -142,3 +142,8 @@
 - Place: Lokanthali, Bhaktapur, Nepal
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
+
+## Name: [Afeez Adeboye](https://github.com/Afeez-AA)
+- Place: Lagos, Nigeria
+- Bio: Network Engineer, Cloud/DevOps Engineer, Football and Anime Lover.
+- Github: [Afeez-AA](https://github.com/Afeez-AA)
