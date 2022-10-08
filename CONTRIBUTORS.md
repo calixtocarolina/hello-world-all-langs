@@ -143,8 +143,8 @@
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
 
-## Name: [Nweke Chidi](https://github.com/NwekeGoddy)
+## Name: [NwekeGoddy](https://github.com/NwekeGoddy)
 
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer who loves football games
-- Github: [vermilion4](https://github.com/NwekeGoddy)
+- Github: [NwekeGoddy](https://github.com/NwekeGoddy)
