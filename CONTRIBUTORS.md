@@ -142,3 +142,8 @@
 - Place: Lokanthali, Bhaktapur, Nepal
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
+
+### Name: [Bhoomija Tripathi](https://github.com/bhoomitri4)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: ECE student , AI/ML enthusiast, love singing.
+- GitHub: [bhoomitri4](https://github.com/bhoomitri4)
