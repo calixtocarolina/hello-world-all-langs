@@ -142,3 +142,9 @@
 - Place: Lokanthali, Bhaktapur, Nepal
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
+
+## Name: [Felipe Foschiera](https://github.com/felipefoschiera)
+
+- Place: São Paulo, Brazil
+- Bio: Software Engineer, working with the AWS Cloud. I also love cats.
+- Github: [felipefoschiera](https://github.com/felipefoschiera)
