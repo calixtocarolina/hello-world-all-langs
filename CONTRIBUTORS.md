@@ -124,7 +124,6 @@
 - Bio: Frontend Developer who loves games and anime
 - Github: [vermilion4](https://github.com/vermilion4)
 
-
 ## Name: [Utsab Kundu](https://github.com/Utsab5)
 
 - Place: Kolkata, West Bengal, India
@@ -133,7 +132,7 @@
 
 ## Name: [Patryk Skonieczny](https://github.com/bmalvo)
 
-- Place: Żory, Śląsk, Poland 
+- Place: Żory, Śląsk, Poland
 - Bio: Forklift Driver who want change profession to IT.
 - Github: [bmalvo](https://github.com/bmalvo)
 
@@ -142,3 +141,9 @@
 - Place: Lokanthali, Bhaktapur, Nepal
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
+
+## Name: [Godswill Udoh](https://github.com/godswilludoh)
+
+- Place: Lagos, Nigeria
+- Bio: Bsc. Petroleum and Gas Engineering, Software developer, Technical writer. I love watching series and listening to podcasts.
+- Github: [godswilludoh](https://github.com/godswilludoh)
