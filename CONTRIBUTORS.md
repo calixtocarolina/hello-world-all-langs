@@ -170,3 +170,8 @@
 - Place: Bangalore, Karnataka, India
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [biratdatta](https://github.com/biratdatta)
+
+### Name: [Biswapratim Mili](https://github.com/tantric17)
+- Place: Gwalior, Madhya Pradesh, India
+- Bio: IT Student who loves coding and is trying his hands on OpenSource.
+- GitHub: [tantric17](https://github.com/tantric17)
