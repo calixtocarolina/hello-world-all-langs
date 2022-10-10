@@ -100,6 +100,13 @@
 - Bio: React and React Native Developer
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
 
+
+### Name: [Cynthia Nwankwo](https://github.com/CydaCode)
+- Place: Abuja,Nigeria
+- Bio: Frontend Web Developer, Community Manager, Open source contributor
+- GitHub: [CydaCode](https://github.com/CydaCode)
+
+
 ### Name: [Juli Cheng](https://github.com/julicheng)
 
 - Place: Manchester, UK
@@ -143,7 +150,21 @@
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
 
+
 ## Name: [Afeez Adeboye](https://github.com/Afeez-AA)
 - Place: Lagos, Nigeria
 - Bio: Network Engineer, Cloud/DevOps Engineer, Football and Anime Lover.
 - Github: [Afeez-AA](https://github.com/Afeez-AA)
+
+
+## Name: [NwekeGoddy](https://github.com/NwekeGoddy)
+
+- Place: Lagos, Nigeria
+- Bio: Frontend Developer who loves football games
+- Github: [NwekeGoddy](https://github.com/NwekeGoddy)
+
+## Name: [Birat Datta](https://github.com/biratdatta)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
+- Github: [biratdatta](https://github.com/biratdatta)
