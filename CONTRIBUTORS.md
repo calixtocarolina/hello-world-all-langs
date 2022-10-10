@@ -77,9 +77,16 @@
 - GitHub: [Poveii](https://github.com/Poveii)
 
 ### Name: [Yashaswini Shivathaya](https://github.com/y-ashaswini)
+
 - Place: Dubai, United Arab Emirates
 - Bio: An organism living an amusing life :)
 - GitHub: [y-ashaswini](https://github.com/y-ashaswini)
+
+### Name: [Prachi Gupta](https://github.com/Prachi-22-81)
+
+- Place: Delhi, India
+- Bio: ECE Student, Web Developer
+- GitHub: [Prachi-22-81](https://github.com/Prachi-22-81)
 
 ## Name: [flawlesslys](https://github.com/flawlesslys)
 
@@ -88,12 +95,57 @@
 - Github: [flawlesslys](https://github.com/flawlesslys)
 
 ### Name: [Sukhjeet Signh](https://github.com/00sukhjeet00)
+
 - Place: Indore, MP, India
 - Bio: React and React Native Developer
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
+
 
 ### Name: [Cynthia Nwankwo](https://github.com/CydaCode)
 - Place: Abuja,Nigeria
 - Bio: Frontend Web Developer, Community Manager, Open source contributor
 - GitHub: [CydaCode](https://github.com/CydaCode)
 
+
+### Name: [Juli Cheng](https://github.com/julicheng)
+
+- Place: Manchester, UK
+- Bio: Frontend Engineer
+- GitHub: [julicheng](https://github.com/julicheng)
+
+## Name: [Harsh Dalwadi](https://github.com/HarshDDalwadi)
+
+- Place:Mumbai, Maharashtra, India
+- Bio: IT Student and I love coding and now I'm getting my hands on openSouce, love playing badMinton.
+- Github: [HarshDDalwadi](https://github.com/HarshDDalwadi)
+
+### Name: [Mansi Singla](https://github.com/mansi-singla-31215)
+
+- Place: Panipat, Haryana, India
+- Bio: CSE Student, Web Developer
+- GitHub: [mansi-singla-31215](https://github.com/mansi-singla-31215)
+
+## Name: [Adaeze Ndupu](https://github.com/vermilion4)
+
+- Place: Lagos, Nigeria
+- Bio: Frontend Developer who loves games and anime
+- Github: [vermilion4](https://github.com/vermilion4)
+
+
+## Name: [Utsab Kundu](https://github.com/Utsab5)
+
+- Place: Kolkata, West Bengal, India
+- Bio: Engineering Student, Web Developer, Open Source Contributer
+- Github: [Utsab5](https://github.com/Utsab5)
+
+## Name: [Patryk Skonieczny](https://github.com/bmalvo)
+
+- Place: Żory, Śląsk, Poland 
+- Bio: Forklift Driver who want change profession to IT.
+- Github: [bmalvo](https://github.com/bmalvo)
+
+## Name: [Anish Ghimire](https://github.com/anishghimire603)
+
+- Place: Lokanthali, Bhaktapur, Nepal
+- Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
+- Github: [anishghimire603](https://github.com/anishghimire603)
