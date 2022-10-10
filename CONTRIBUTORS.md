@@ -148,6 +148,12 @@
 - Github: [anishghimire603](https://github.com/anishghimire603)
 
 
+### Name: [Bhoomija Tripathi](https://github.com/bhoomitri4)
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: ECE student , AI/ML enthusiast, love singing.
+- GitHub: [bhoomitri4](https://github.com/bhoomitri4)
+
+
 ## Name: [Felipe Foschiera](https://github.com/felipefoschiera)
 
 - Place: São Paulo, Brazil
