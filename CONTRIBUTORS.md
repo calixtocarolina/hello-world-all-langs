@@ -137,7 +137,7 @@
 
 ## Name: [Patryk Skonieczny](https://github.com/bmalvo)
 
-- Place: Żory, Śląsk, Poland 
+- Place: Żory, Śląsk, Poland
 - Bio: Forklift Driver who want change profession to IT.
 - Github: [bmalvo](https://github.com/bmalvo)
 
@@ -146,6 +146,13 @@
 - Place: Lokanthali, Bhaktapur, Nepal
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
+
+
+### Name: [TenTraicion](https://github.com/TenTraicion)
+
+- Place: Dhaka, Bangladesh
+- Bio: Web Developer, Discord: TenTraicion#6565 Social: @TenTraicion
+- GitHub: [TenTraicion](https://github.com/TenTraicion)
 
 
 ### Name: [Bhoomija Tripathi](https://github.com/bhoomitri4)
