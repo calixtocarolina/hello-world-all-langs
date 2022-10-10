@@ -100,6 +100,11 @@
 - Bio: React and React Native Developer
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
 
+### Name: [Cynthia Nwankwo](https://github.com/CydaCode)
+- Place: Abuja,Nigeria
+- Bio: Frontend Web Developer, Community Manager, Open source contributor
+- GitHub: [CydaCode](https://github.com/CydaCode)
+
 ### Name: [Juli Cheng](https://github.com/julicheng)
 
 - Place: Manchester, UK
@@ -124,7 +129,6 @@
 - Bio: Frontend Developer who loves games and anime
 - Github: [vermilion4](https://github.com/vermilion4)
 
-
 ## Name: [Utsab Kundu](https://github.com/Utsab5)
 
 - Place: Kolkata, West Bengal, India
@@ -143,7 +147,42 @@
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
 
+
 ### Name: [Bhoomija Tripathi](https://github.com/bhoomitri4)
 - Place: Lucknow, Uttar Pradesh, India
 - Bio: ECE student , AI/ML enthusiast, love singing.
 - GitHub: [bhoomitri4](https://github.com/bhoomitri4)
+
+
+## Name: [Felipe Foschiera](https://github.com/felipefoschiera)
+
+- Place: São Paulo, Brazil
+- Bio: Software Engineer, working with the AWS Cloud. I also love cats.
+- Github: [felipefoschiera](https://github.com/felipefoschiera)
+
+## Name: [Afeez Adeboye](https://github.com/Afeez-AA)
+- Place: Lagos, Nigeria
+- Bio: Network Engineer, Cloud/DevOps Engineer, Football and Anime Lover.
+- Github: [Afeez-AA](https://github.com/Afeez-AA)
+
+## Name: [NwekeGoddy](https://github.com/NwekeGoddy)
+
+- Place: Lagos, Nigeria
+- Bio: Frontend Developer who loves football games
+- Github: [NwekeGoddy](https://github.com/NwekeGoddy)
+
+## Name: [Birat Datta](https://github.com/biratdatta)
+
+- Place: Bangalore, Karnataka, India
+- Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
+- Github: [biratdatta](https://github.com/biratdatta)
+
+### Name: [Jyotsana SIngh](https://github.com/jyotsana279)
+- Place: Jamshedpur Jharkhand, India
+- Bio: B.Tech Student, CSE Undergrad, Love digital art.
+- GitHub: [jyotsana279](https://github.com/jyotsana279)
+
+### Name: [Biswapratim Mili](https://github.com/tantric17)
+- Place: Gwalior, Madhya Pradesh, India
+- Bio: IT Student who loves coding and is trying his hands on OpenSource.
+- GitHub: [tantric17](https://github.com/tantric17)
