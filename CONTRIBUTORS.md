@@ -175,3 +175,9 @@
 - Place: Gwalior, Madhya Pradesh, India
 - Bio: IT Student who loves coding and is trying his hands on OpenSource.
 - GitHub: [tantric17](https://github.com/tantric17)
+
+## Name: [Wendell Borges](https://github.com/wendell00)
+
+- Place: São Paulo, Brazil
+- Bio: Web Developer, Open Source Contributer and i have 19 years old.
+- Github: [wendell00](https://github.com/wendell00)
