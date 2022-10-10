@@ -150,6 +150,13 @@
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
 
+
+## Name: [NwekeGoddy](https://github.com/NwekeGoddy)
+
+- Place: Lagos, Nigeria
+- Bio: Frontend Developer who loves football games
+- Github: [NwekeGoddy](https://github.com/NwekeGoddy)
+
 ## Name: [Birat Datta](https://github.com/biratdatta)
 
 - Place: Bangalore, Karnataka, India
