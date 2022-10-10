@@ -100,6 +100,13 @@
 - Bio: React and React Native Developer
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
 
+
+### Name: [Cynthia Nwankwo](https://github.com/CydaCode)
+- Place: Abuja,Nigeria
+- Bio: Frontend Web Developer, Community Manager, Open source contributor
+- GitHub: [CydaCode](https://github.com/CydaCode)
+
+
 ### Name: [Juli Cheng](https://github.com/julicheng)
 
 - Place: Manchester, UK
