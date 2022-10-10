@@ -170,3 +170,8 @@
 - Place: Bangalore, Karnataka, India
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [biratdatta](https://github.com/biratdatta)
+
+### Name: [Jyotsana SIngh](https://github.com/jyotsana279)
+- Place: Jamshedpur Jharkhand, India
+- Bio: B.Tech Student, CSE Undergrad, Love digital art.
+- GitHub: [jyotsana279](https://github.com/jyotsana279)
