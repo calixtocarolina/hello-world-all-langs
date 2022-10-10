@@ -100,12 +100,10 @@
 - Bio: React and React Native Developer
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
 
-
 ### Name: [Cynthia Nwankwo](https://github.com/CydaCode)
 - Place: Abuja,Nigeria
 - Bio: Frontend Web Developer, Community Manager, Open source contributor
 - GitHub: [CydaCode](https://github.com/CydaCode)
-
 
 ### Name: [Juli Cheng](https://github.com/julicheng)
 
@@ -131,7 +129,6 @@
 - Bio: Frontend Developer who loves games and anime
 - Github: [vermilion4](https://github.com/vermilion4)
 
-
 ## Name: [Utsab Kundu](https://github.com/Utsab5)
 
 - Place: Kolkata, West Bengal, India
@@ -151,11 +148,16 @@
 - Github: [anishghimire603](https://github.com/anishghimire603)
 
 
+## Name: [Felipe Foschiera](https://github.com/felipefoschiera)
+
+- Place: São Paulo, Brazil
+- Bio: Software Engineer, working with the AWS Cloud. I also love cats.
+- Github: [felipefoschiera](https://github.com/felipefoschiera)
+
 ## Name: [Afeez Adeboye](https://github.com/Afeez-AA)
 - Place: Lagos, Nigeria
 - Bio: Network Engineer, Cloud/DevOps Engineer, Football and Anime Lover.
 - Github: [Afeez-AA](https://github.com/Afeez-AA)
-
 
 ## Name: [NwekeGoddy](https://github.com/NwekeGoddy)
 
