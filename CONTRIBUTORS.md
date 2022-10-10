@@ -151,6 +151,12 @@
 - Github: [anishghimire603](https://github.com/anishghimire603)
 
 
+## Name: [Afeez Adeboye](https://github.com/Afeez-AA)
+- Place: Lagos, Nigeria
+- Bio: Network Engineer, Cloud/DevOps Engineer, Football and Anime Lover.
+- Github: [Afeez-AA](https://github.com/Afeez-AA)
+
+
 ## Name: [NwekeGoddy](https://github.com/NwekeGoddy)
 
 - Place: Lagos, Nigeria
@@ -162,4 +168,3 @@
 - Place: Bangalore, Karnataka, India
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [biratdatta](https://github.com/biratdatta)
-
