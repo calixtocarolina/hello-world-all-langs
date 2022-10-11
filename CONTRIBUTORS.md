@@ -101,6 +101,7 @@
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
 
 ### Name: [Cynthia Nwankwo](https://github.com/CydaCode)
+
 - Place: Abuja,Nigeria
 - Bio: Frontend Web Developer, Community Manager, Open source contributor
 - GitHub: [CydaCode](https://github.com/CydaCode)
@@ -137,7 +138,7 @@
 
 ## Name: [Patryk Skonieczny](https://github.com/bmalvo)
 
-- Place: Żory, Śląsk, Poland 
+- Place: Żory, Śląsk, Poland
 - Bio: Forklift Driver who want change profession to IT.
 - Github: [bmalvo](https://github.com/bmalvo)
 
@@ -147,6 +148,17 @@
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
 
+### Name: [TenTraicion](https://github.com/TenTraicion)
+
+- Place: Dhaka, Bangladesh
+- Bio: Web Developer, Discord: TenTraicion#6565 Social: @TenTraicion
+- GitHub: [TenTraicion](https://github.com/TenTraicion)
+
+### Name: [Bhoomija Tripathi](https://github.com/bhoomitri4)
+
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: ECE student , AI/ML enthusiast, love singing.
+- GitHub: [bhoomitri4](https://github.com/bhoomitri4)
 
 ## Name: [Felipe Foschiera](https://github.com/felipefoschiera)
 
@@ -155,6 +167,7 @@
 - Github: [felipefoschiera](https://github.com/felipefoschiera)
 
 ## Name: [Afeez Adeboye](https://github.com/Afeez-AA)
+
 - Place: Lagos, Nigeria
 - Bio: Network Engineer, Cloud/DevOps Engineer, Football and Anime Lover.
 - Github: [Afeez-AA](https://github.com/Afeez-AA)
@@ -171,10 +184,30 @@
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [biratdatta](https://github.com/biratdatta)
 
+### Name: [Jyotsana SIngh](https://github.com/jyotsana279)
+
+- Place: Jamshedpur Jharkhand, India
+- Bio: B.Tech Student, CSE Undergrad, Love digital art.
+- GitHub: [jyotsana279](https://github.com/jyotsana279)
+
 ### Name: [Biswapratim Mili](https://github.com/tantric17)
+
 - Place: Gwalior, Madhya Pradesh, India
 - Bio: IT Student who loves coding and is trying his hands on OpenSource.
 - GitHub: [tantric17](https://github.com/tantric17)
+
+### Name: [Tommy Mönnich](https://github.com/t-moennich)
+
+- Place: Essen, Germany
+- Bio: Frontend Developer ❤️
+- GitHub: [t-moennich](https://github.com/t-moennich)
+
+
+### Name: [Godswill Udoh](https://github.com/godswilludoh)
+
+- Place: Lagos, Nigeria.
+- Bio: B.sc. Petroleum and Gas Engineering, Frontend developer and technical writer that loves watching series and listening to podcasts.
+- GitHub: [godswilludoh](https://github.com/godswilludoh)
 
 ## Name: [Wendell Borges](https://github.com/wendell00)
 
