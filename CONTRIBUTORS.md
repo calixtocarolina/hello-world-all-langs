@@ -9,6 +9,12 @@
 - Place: France
 - Bio: Software Developer who loves making chatbots and backend things
 - Github: [GreepTheSheep](https://github.com/GreepTheSheep)
+- 
+## Name [Rudra Sharma](https://github.com/rudra016)
+
+- Place: India
+- Bio: Front-End Enthusiast
+- Github: [rudra016](https://github.com/rudra016)
 
 ## Name: [Dominik Koch](https://github.com/mezotv)
 
