@@ -179,5 +179,5 @@
 ## Name: [Wendell Borges](https://github.com/wendell00)
 
 - Place: São Paulo, Brazil
-- Bio: Web Developer, Open Source Contributer and i have 19 years old.
+- Bio: Desenvolvedor Web, Contribuindo ao Open Source e possuo 19 anos (Web Developer, Open Source Contributer and i have 19 years old).
 - Github: [wendell00](https://github.com/wendell00)
