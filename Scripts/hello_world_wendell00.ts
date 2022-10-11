@@ -1,7 +1,10 @@
-// Programming Language: JavaScript
-// Native Language: Portuguese
-// Author: Wendell Borges
+// linguagem de Programação (Programming Language): JavaScript
+// Línguagem Nativa (Native Language): Portuguese
+// Autor (Author): Wendell Borges
 // Github: https://github.com/wendell00
 
-let msg: string = 'Hello, World!';
-console.log(msg);
+function mensagem(mensagemParametro: string){
+  console.log(mensagemParametro)
+}
+
+mensagem('Olá, Mundo!')
