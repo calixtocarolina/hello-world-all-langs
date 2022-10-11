@@ -1,6 +1,6 @@
-fn main() {
-   
+// Programming Language: Python
+// Native Language: Hindi
+// Author: Rudra Sharma
+// Github: https://github.com/rudra016
 
-    // Print text 
-    println!("Hello World!");
-}
+print("नमस्ते दुनिया")
