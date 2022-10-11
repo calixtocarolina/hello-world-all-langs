@@ -101,6 +101,7 @@
 - GitHub: [00sukhjeet00](https://github.com/00sukhjeet00)
 
 ### Name: [Cynthia Nwankwo](https://github.com/CydaCode)
+
 - Place: Abuja,Nigeria
 - Bio: Frontend Web Developer, Community Manager, Open source contributor
 - GitHub: [CydaCode](https://github.com/CydaCode)
@@ -147,19 +148,17 @@
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [anishghimire603](https://github.com/anishghimire603)
 
-
 ### Name: [TenTraicion](https://github.com/TenTraicion)
 
 - Place: Dhaka, Bangladesh
 - Bio: Web Developer, Discord: TenTraicion#6565 Social: @TenTraicion
 - GitHub: [TenTraicion](https://github.com/TenTraicion)
 
-
 ### Name: [Bhoomija Tripathi](https://github.com/bhoomitri4)
+
 - Place: Lucknow, Uttar Pradesh, India
 - Bio: ECE student , AI/ML enthusiast, love singing.
 - GitHub: [bhoomitri4](https://github.com/bhoomitri4)
-
 
 ## Name: [Felipe Foschiera](https://github.com/felipefoschiera)
 
@@ -168,6 +167,7 @@
 - Github: [felipefoschiera](https://github.com/felipefoschiera)
 
 ## Name: [Afeez Adeboye](https://github.com/Afeez-AA)
+
 - Place: Lagos, Nigeria
 - Bio: Network Engineer, Cloud/DevOps Engineer, Football and Anime Lover.
 - Github: [Afeez-AA](https://github.com/Afeez-AA)
@@ -201,3 +201,10 @@
 - Place: Essen, Germany
 - Bio: Frontend Developer ❤️
 - GitHub: [t-moennich](https://github.com/t-moennich)
+
+
+### Name: [Godswill Udoh](https://github.com/godswilludoh)
+
+- Place: Lagos, Nigeria.
+- Bio: B.sc. Petroleum and Gas Engineering, Frontend developer and technical writer that loves watching series and listening to podcasts.
+- GitHub: [godswilludoh](https://github.com/godswilludoh)
