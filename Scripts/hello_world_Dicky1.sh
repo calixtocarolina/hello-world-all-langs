@@ -5,4 +5,4 @@
 # Author: Dicky Setiono
 # Github: https://github.com/Dicky1
 
-echo " Hello World "
+echo " Hallo Dunia "
