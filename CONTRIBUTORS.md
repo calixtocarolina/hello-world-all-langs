@@ -170,3 +170,9 @@
 - Place: Bangalore, Karnataka, India
 - Bio: Bsc.CSIT Student, Full Stack Web Developer, Investor, Innovator, Blockchain Developer.
 - Github: [biratdatta](https://github.com/biratdatta)
+
+### Name: [Tommy Mönnich](https://github.com/t-moennich)
+
+- Place: Essen, Germany
+- Bio: Frontend Developer ❤️
+- GitHub: [t-moennich](https://github.com/t-moennich)
