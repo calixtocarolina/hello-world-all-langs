@@ -208,3 +208,9 @@
 - Place: Lagos, Nigeria.
 - Bio: B.sc. Petroleum and Gas Engineering, Frontend developer and technical writer that loves watching series and listening to podcasts.
 - GitHub: [godswilludoh](https://github.com/godswilludoh)
+
+### Name: [Dicky Setiono](https://github.com/Dicky1)
+
+- Place: Central Java, Indonesia.
+- Bio: Security Engineer With ❤️.
+- GitHub: [Dicky1](https://github.com/Dicky1)
