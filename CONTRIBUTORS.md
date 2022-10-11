@@ -196,6 +196,13 @@
 - Bio: IT Student who loves coding and is trying his hands on OpenSource.
 - GitHub: [tantric17](https://github.com/tantric17)
 
+### Name: [Tommy Mönnich](https://github.com/t-moennich)
+
+- Place: Essen, Germany
+- Bio: Frontend Developer ❤️
+- GitHub: [t-moennich](https://github.com/t-moennich)
+
+
 ### Name: [Godswill Udoh](https://github.com/godswilludoh)
 
 - Place: Lagos, Nigeria.
