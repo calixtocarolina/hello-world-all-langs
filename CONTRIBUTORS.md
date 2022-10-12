@@ -208,3 +208,9 @@
 - Place: Lagos, Nigeria.
 - Bio: B.sc. Petroleum and Gas Engineering, Frontend developer and technical writer that loves watching series and listening to podcasts.
 - GitHub: [godswilludoh](https://github.com/godswilludoh)
+
+### Name: [George Pires](https://github.com/GeorgePires)
+
+- Place: Piauí, Brazil
+- Bio: Back-end Developer Jr and Pokémon Master.
+- GitHub: [GeorgePires](https://github.com/GeorgePires)
