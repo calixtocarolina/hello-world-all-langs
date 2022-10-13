@@ -1,6 +1,6 @@
 # Hello World, All languages! :earth_americas:
 
-:pushpin: Write "hello world" in your native language, code "hello world" in your favorite language! #hacktoberfest2022
+:pushpin: Write "hello world" in your native language, code "hello world" in your favorite language! 
 
 ## How to contribute in this repository #hacktoberfest2022?
 
@@ -48,6 +48,5 @@ Here's some tutorials to help you in your journey through Hacktoberfest and how 
 + [Forking a repository](https://docs.github.com/pt/get-started/quickstart/fork-a-repo)
 + [Syncing a fork](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
 + [How to do your first pull request](https://www.youtube.com/watch?v=nkuYH40cjo4)
-+ [Why should you participate in Hacktoberfest?](https://www.youtube.com/watch?v=LruUhWylI5w)
 
 
