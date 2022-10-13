@@ -2,7 +2,7 @@
 
 :pushpin: Write "hello world" in your native language, code "hello world" in your favorite language! 
 
-## How to contribute in this repository #hacktoberfest2022?
+## How to contribute in this repository?
 
 This is a repository that can be considered "friendly" to first-time users of Git and Github, so feel free to open issues and help out each other.
 
