@@ -6,8 +6,6 @@
 
 This is a repository that can be considered "friendly" to first-time users of Git and Github, so feel free to open issues and help out each other.
 
-In order to participate of Hacktoberfest 2022, you need to read the [rules in this link](https://hacktoberfest.com/) and sign up until October 31, as well to have your pull request accepted in this repository.
-
 :pushpin: Explaining further the idea here, it is very simple:
 
 * This project have a goal to **celebrate the diversity and the culture all around the world**, so more than to write just the basic "Hello, World" that every one of us do when we first start to code, I wish that people that speak other languages besides English can type this two simple words, greeting the World :earth_asia: in your mother tongue. Let's begin!
