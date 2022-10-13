@@ -214,3 +214,9 @@
 - Place: Lagos, Nigeria.
 - Bio: B.sc. Petroleum and Gas Engineering, Frontend developer and technical writer that loves watching series and listening to podcasts.
 - GitHub: [godswilludoh](https://github.com/godswilludoh)
+
+### Name: [Ashish Kumar Sharma](https://github.com/AshishSharma1203)
+
+- Place: Uttar Pradesh , India
+- Bio: Btech in ECE from NIT Allahabad , Web Developer
+- GitHub: [AshishSharma1203](https://github.com/AshishSharma1203)
