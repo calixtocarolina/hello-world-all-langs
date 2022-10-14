@@ -215,8 +215,17 @@
 - Bio: B.sc. Petroleum and Gas Engineering, Frontend developer and technical writer that loves watching series and listening to podcasts.
 - GitHub: [godswilludoh](https://github.com/godswilludoh)
 
+
+### Name: [Anupesh Kumar Verma](https://github.com/anupeshverma)
+
+- Place: Barabanki, Uttar Pradesh.
+- Bio: Converting Coffee into code #programmer.
+- GitHub: [anupeshverma](https://github.com/anupeshverma)
+
+
 ### Name: [Ashish Kumar Sharma](https://github.com/AshishSharma1203)
 
 - Place: Uttar Pradesh , India
 - Bio: Btech in ECE from NIT Allahabad , Web Developer
 - GitHub: [AshishSharma1203](https://github.com/AshishSharma1203)
+
