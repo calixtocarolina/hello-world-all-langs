@@ -234,3 +234,10 @@
 - Place: Uttar Pradesh , India
 - Bio: Btech in ECE from NIT Allahabad , Web Developer
 - GitHub: [AshishSharma1203](https://github.com/AshishSharma1203)
+
+
+### Name: [Lindsay Ferreira](https://github.com/linferreira)
+
+- Place: Sorocaba, Brazil
+- Bio: Front-end Developer, beginner skater, embroiderer and tech event organizer.
+- Github: [Lindsay Ferreira](https://github.com/linferreira)
