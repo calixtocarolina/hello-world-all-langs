@@ -9,7 +9,7 @@
 - Place: France
 - Bio: Software Developer who loves making chatbots and backend things
 - Github: [GreepTheSheep](https://github.com/GreepTheSheep)
-- 
+-
 ## Name [Rudra Sharma](https://github.com/rudra016)
 
 - Place: India
@@ -222,12 +222,19 @@
 - Bio: Converting Coffee into code #programmer.
 - GitHub: [anupeshverma](https://github.com/anupeshverma)
 
+### Name: [Caroline Brum](https://github.com/brumcaroline)
+
+- Place: Amsterdam, Netherlands.
+- Bio: Programmer in training.
+- GitHub: [brumcaroline](https://github.com/brumcaroline)
+
 
 ### Name: [Ashish Kumar Sharma](https://github.com/AshishSharma1203)
 
 - Place: Uttar Pradesh , India
 - Bio: Btech in ECE from NIT Allahabad , Web Developer
 - GitHub: [AshishSharma1203](https://github.com/AshishSharma1203)
+
 
 ### Name: [Lindsay Ferreira](https://github.com/linferreira)
 
