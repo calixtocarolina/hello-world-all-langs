@@ -241,3 +241,9 @@
 - Place: Sorocaba, Brazil
 - Bio: Front-end Developer, beginner skater, embroiderer and tech event organizer.
 - Github: [Lindsay Ferreira](https://github.com/linferreira)
+
+### Name: [Humberto Guedes](https://github.com/FHumberto)
+
+- Place: Nova Cruz, Rio Grande do Norte, Brasil
+- Bio: A software engineer who enjoys building interactive applications and dreams of working in game development.
+- GitHub: [Humberto Guedes](https://github.com/FHumberto)
