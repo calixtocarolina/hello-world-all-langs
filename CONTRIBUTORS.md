@@ -241,3 +241,8 @@
 - Place: Sorocaba, Brazil
 - Bio: Front-end Developer, beginner skater, embroiderer and tech event organizer.
 - Github: [Lindsay Ferreira](https://github.com/linferreira)
+- 
+### Name: [ZehJulian Lp](https://github.com/ZehJulianLp)
+- Place: Lower Saxone, Germany
+- Bio: Loves Minecraft, Developer of some Datapacks, Python Scrips and Websites
+- GitHub: [ZehJulianLp](https://github.com/ZehJulianLp)
