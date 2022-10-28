@@ -241,3 +241,11 @@
 - Place: Sorocaba, Brazil
 - Bio: Front-end Developer, beginner skater, embroiderer and tech event organizer.
 - Github: [Lindsay Ferreira](https://github.com/linferreira)
+
+
+### Name: [StonkDragon](https://github.com/StonkDragon)
+
+- Place: Schleswig-Holstein, Germany
+- Bio: your friendly neighborhood dragon
+- GitHub: [StonkDragon](https://github.com/StonkDragon)
+
