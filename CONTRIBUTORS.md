@@ -246,3 +246,10 @@
 - Place: Lower Saxone, Germany
 - Bio: Loves Minecraft, Developer of some Datapacks, Python Scrips and Websites
 - GitHub: [ZehJulianLp](https://github.com/ZehJulianLp)
+
+
+### Name: [Gekko Wrld](https://github.com/gekkowrld)
+
+- Place: Nairobi, Kenya
+- Bio: Partly gekko, partly human! Building software with the speed and agility of a gekko. Join me in my quest to conquer the digital wrld, one byte at a time!
+- Github: [Gekko Wrld](https://github.com/gekkowrld)
